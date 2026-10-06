@@ -158,7 +158,7 @@ function preload() {
   this.load.image('jugador_frente', 'Assets/frente1.png');
   this.load.image('jugador_derecha', 'Assets/derecha5.png');
   this.load.image('jugador_izquierda', 'Assets/izquierda5.png');
-  this.load.audio('musica_fondo', 'assets/empacotatron_loop.ogg');
+  this.load.audio('musica_fondo', 'Assets/empacotatron_loop.ogg');
   
 
 
